@@ -12,7 +12,6 @@ function yourAnimal() {
   return animal
 }
  
- return yourAnimal()
  
 function add2(n) {
   return n + two
